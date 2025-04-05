@@ -2,7 +2,7 @@
 
 [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=striversahil&show_icons=true&theme=radical)](https://github.com/striversahil/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=striversahil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=striversahil&layout=compact&theme=radical)
 
 <!--
 **striversahil/striversahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
