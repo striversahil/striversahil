@@ -1,11 +1,14 @@
 ## I'm Sahil 👋
 
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=striversahil&show_icons=true&theme=radical)](https://github.com/striversahil/github-readme-stats)
+<img alt="my stat" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=striversahil&show_icons=true&theme=radical"/>
+<img alt="my stat" align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=striversahil&layout=compact&theme=radical"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=striversahil&layout=compact&theme=radical)
 
 <!--
 **striversahil/striversahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=striversahil&show_icons=true&theme=radical)](https://github.com/striversahil/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=striversahil&layout=compact&theme=radical)
 
 Here are some ideas to get you started:
 
