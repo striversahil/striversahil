@@ -6,7 +6,7 @@
 <h4 align="left">Connect with me :</h4>
 <p align="left">
 <a href="https://linkedin.com/in/striversahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="striversahil" height="25" width="35" /></a>
-<a href="https://twitter.com/striversahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="striversahil" height="25" width="35" /></a>
+<a href="https://twitter.com/StriverSahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="striversahil" height="25" width="35" /></a>
 <!-- <a href="https://www.youtube.com/c/pkbhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pkbhalla" height="30" width="40" /></a>
 <a href="https://kaggle.com/prathambhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathambhalla" height="30" width="40" /></a>
 <a href="https://instagram.com/pk_bhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pk_bhalla" height="30" width="40" /></a>
