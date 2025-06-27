@@ -14,6 +14,34 @@
 </p>
 <h4>🚀 Currently Building Apotza .... ✨ </h4>🔥 Building solutions that make a real-world impact<br>🎓 Doing Graduation from IIT Madras with a BS in Data Science & Applications<br>💡 Passionate about Full Stack Development, Data Science, and AI
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="sklearn logo"  />
+</div>
+
 ### 📊 My GitHub Stats:
 <img alt="my stat" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=striversahil&show_icons=true&theme=radical"/>
 <img alt="my stat" align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=striversahil&layout=compact&theme=radical"/>
