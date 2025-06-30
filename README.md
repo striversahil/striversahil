@@ -12,35 +12,58 @@
 <a href="https://instagram.com/pk_bhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pk_bhalla" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/prathambhalla188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathambhalla188" height="30" width="40" /></a> -->
 </p>
-<h4>🚀 Currently Building Apotza .... ✨ </h4>🔥 Building solutions that make a real-world impact<br>🎓 Doing Graduation from IIT Madras with a BS in Data Science & Applications<br>💡 Passionate about Full Stack Development, Data Science, and AI
+<h3>🚀 Currently Building Apotza .... ✨ </h3>🔥 Building solutions that make a real-world impact<br>🎓 Doing Graduation from IIT Madras with a BS in Data Science & Applications<br>💡 Passionate about Full Stack Development, Data Science, and AI
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+
+  <h3>💻 Language Stack :</h3>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
+
+  <h3>🧰 Frameworks & Libraries :</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="scikit-learn logo" />
+
+  <h3>🗃️ Databases :</h3>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="sklearn logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgres logo" />
+
+  <h3>🛠️ Tools & Platforms :</h3>
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
+
+  <h3>🧑‍💻 IDEs & Editors :</h3>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo" />
+
 </div>
+
 
 ### 📊 My GitHub Stats:
 <img alt="my stat" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=striversahil&show_icons=true&theme=radical"/>
