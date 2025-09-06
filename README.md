@@ -20,7 +20,7 @@
 <a href="https://instagram.com/pk_bhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pk_bhalla" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/prathambhalla188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathambhalla188" height="30" width="40" /></a> -->
 </p>
-<h3>🚀 Currently Building Apotza .... ✨ </h3>🔥 Building solutions that make a real-world impact<br>🎓 Doing Graduation from IIT Madras with a BS in Data Science & Applications<br>💡 Passionate about Full Stack Development, Data Science, and AI
+<h4>🚀 AI Engineer Intern @DS Ventures LLP ✨ </h4>🔥 Building solutions that make a real-world impact<br>🎓 Doing Graduation from IIT Madras with a BS in Data Science & Applications<br>💡 Passionate about Full Stack Development, Data Science, and AI
 
 ###
 
